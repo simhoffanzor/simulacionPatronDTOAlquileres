@@ -1,0 +1,5 @@
+com/inmobiliaria/alquileres/AlquileresApplication.class
+com/inmobiliaria/alquileres/model/Inquilino.class
+com/inmobiliaria/alquileres/controller/AlquileresController.class
+com/inmobiliaria/alquileres/dto/PropiedadDTO.class
+com/inmobiliaria/alquileres/model/Propiedad.class
